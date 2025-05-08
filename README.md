@@ -12,8 +12,8 @@ This project sets up a test environment using [Playwright](https://playwright.de
 
 ### 2. Run the commands
 
-docker compose build
-docker compose up
+- docker compose build
+- docker compose up
 
 ### 3. For Clean Up run the command
 
